@@ -1,0 +1,12 @@
+{
+  "zimlet": {
+    "label": "DLP Zimlet",
+    "description": "This Zimlet offers data loss prevention based on Presidio. It warns the user when sending sensitive information like credit card or social security number."
+  },
+  "DLPZimlet": {
+    "description": "It looks like you may be sending sensitive information, please review your email and remove any sensitive information.",
+    "sendAnyway": "Send anyway",
+    "reasons": "Reason(s)",
+    "title": "Sensitive information detected"
+  }
+}
